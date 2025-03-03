@@ -1,6 +1,8 @@
 # high_bossmenu
 high_bossmenu
 
+NON CAMBIATE NOME DELLA RISORSA ALTRIMENTI NON FUNZIONERA' LO SCRIPT.
+
 # Dipendenze
 
 Es_extended
